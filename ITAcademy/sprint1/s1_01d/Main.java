@@ -12,8 +12,8 @@ public class Main {
 		 */
 		
 		Rossegador[] r = new Rossegador[6];
-		r[0] = new Ratolí();
-		r[1] = new Ratolí();
+		r[0] = new Ratoli();
+		r[1] = new Ratoli();
 		r[2] = new Jerbu();
 		r[3] = new Jerbu();
 		r[4] = new Hamster();

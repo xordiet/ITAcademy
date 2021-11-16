@@ -1,6 +1,6 @@
 package s1_01d;
 
-public class Ratolí extends Rossegador {
+public class Ratoli extends Rossegador {
 	/**
 	 * Exercici 4.
 	 * substitueixi aquests mètodes a les classes derivades per a obtenir 
