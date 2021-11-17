@@ -20,10 +20,6 @@ public class Error {
 
 class ErrorPropi extends Exception{
 	
-	public ErrorPropi() {
-		
-	}
-	
 	public ErrorPropi(String missError) {
 		
 		super(missError);
