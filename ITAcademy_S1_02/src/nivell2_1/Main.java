@@ -1,4 +1,4 @@
-package nivell2;
+package nivell2_1;
 
 public class Main {
 	
