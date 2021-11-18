@@ -1,7 +1,7 @@
 package nivell2;
 
 public class Main {
-
+	
 	public static void main(String[] args) {
 		try {
 			f();
@@ -9,7 +9,7 @@ public class Main {
 			System.out.println(e.getMessage());
 		}
 	}
-	
+
 	static void f() throws ErrorSegon {
 		try {
 			g();

@@ -1,6 +1,15 @@
 package nivell2_2;
 
 public class Main {
+	
+	// TODO nivell 2 exercici 2
+	/**
+	 * 
+	 * Repeteixi l'exercici anterior, 
+	 * però dins de la clàusula catch, emboliqui l'excepció 'g()' 
+	 * dins d'una RuntimeException.
+	 * 
+	 */
 
 	public static void main(String[] args) {
 		try {
@@ -37,4 +46,3 @@ class ErrorSegon extends Exception{
 		super(msgError);
 	}
 }
-
