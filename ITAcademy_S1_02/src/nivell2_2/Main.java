@@ -18,24 +18,28 @@ public class Main {
 			System.out.println(e.getMessage());
 		}
 	}
-	
+
 	static void f() throws ErrorSegon {
 		try {
 			g();
 		} catch (ErrorPrimer e) {
-			System.out.println(e.getMessage());
-			throw new ErrorSegon("Aquest és el segon error!");
+			try {
+				throw new ErrorSegon("Aquest és el segon error!", e);
+			} catch (RuntimeException f) {
+				System.out.println("Excepció RuntimeException");
+			}
 			
 		}
 	}
 	
 	static void g() throws ErrorPrimer {
-		throw new ErrorPrimer("Aquest és el primer error!");
+		throw new ErrorPrimer();
 	}
 
 }
 
 class ErrorPrimer extends Exception{
+	public ErrorPrimer() {}
 	public ErrorPrimer(String msgError) {
 		super(msgError);
 	}
@@ -44,5 +48,9 @@ class ErrorPrimer extends Exception{
 class ErrorSegon extends Exception{
 	public ErrorSegon(String msgError) {
 		super(msgError);
+	}
+	public ErrorSegon(String msgError, ErrorPrimer e) {
+		super(msgError);
+		System.out.println("Mostra causa: " + e);
 	}
 }

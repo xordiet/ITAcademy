@@ -2,6 +2,6 @@ package nivell3_3;
 
 public class ClasseNova {
 	public void dispose() {
-		System.out.println("dispose()");
+		System.out.println("nou element dispose()");
 	}
 }

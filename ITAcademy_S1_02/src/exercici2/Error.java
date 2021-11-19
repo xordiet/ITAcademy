@@ -1,7 +1,15 @@
 package exercici2;
 
 public class Error {
+	
+	/**
+	 * Exercici 2.
+	 */
+	
 	public static void main(String[] args) {
+		/*
+		 * Defineixi una referència a un objecte i inicialitzi-la amb null.
+		 */
 		Objecte obj = null;
 		/*
 		 * Tracti d'invocar un mètode a través d'aquesta referència.

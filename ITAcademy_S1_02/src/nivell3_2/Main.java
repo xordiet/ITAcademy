@@ -11,11 +11,7 @@ public class Main {
 	 */
 
 	public static void main(String[] args) {
-		try{
-			FailingConstructor f = new FailingConstructor();
-		} catch (Exception e) {
-			System.out.println(e.getMessage());
-		}
+		FailingConstructor f = new FailingConstructor();
 	}
 
 }

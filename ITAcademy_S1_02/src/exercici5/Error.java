@@ -7,6 +7,12 @@ import javax.imageio.ImageIO;
 
 public class Error {
 	
+	/**
+	 * Exercici 5. 
+	 * Defineixi un comportament de tipus represa utilitzant un bucle 'while' 
+	 * que es repeteixi fins que es deixi de generar una excepció.
+	 */
+	
 	public static void main(String[] args) {
 		boolean resume = true;
 		int i = 0;
