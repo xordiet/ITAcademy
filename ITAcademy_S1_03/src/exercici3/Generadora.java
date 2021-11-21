@@ -29,5 +29,8 @@ public class Generadora {
 	public int llargada() {
 		return pr.length;
 	}
+	public void resetPosicio() {
+		posicio = 0;
+	}
 	
 }

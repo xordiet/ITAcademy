@@ -32,6 +32,7 @@ public class Main {
 		System.out.println("= Ordre natural amb repetits");
 		System.out.println();
 		
+		g.resetPosicio();
 		LinkedList<String> lkdlt = new LinkedList<String>();
 		for(int i =0; i<num; i++) {
 			lkdlt.add(g.seguentPersonatge());
@@ -41,6 +42,7 @@ public class Main {
 		System.out.println("= Desordenat amb repetits");
 		System.out.println();
 		
+		g.resetPosicio();
 		HashSet<String> hsst = new HashSet<String>();
 		for(int i =0; i<num; i++) {
 			hsst.add(g.seguentPersonatge());
@@ -50,15 +52,17 @@ public class Main {
 		System.out.println("= Desordenat sense repetits");
 		System.out.println();
 		
+		g.resetPosicio();
 		LinkedHashSet<String> lkhsst = new LinkedHashSet<String>();
 		for(int i =0; i<num; i++) {
 			lkhsst.add(g.seguentPersonatge());
 		}
 		System.out.print("LinkedHashSet: ");
 		System.out.println(lkhsst);
-		System.out.println("= Ordenat (comença per on vol) sense repetits");
+		System.out.println("= Ordenat sense repetits");
 		System.out.println();
 		
+		g.resetPosicio();
 		TreeSet<String> trst = new TreeSet<String>();
 		for(int i =0; i<num; i++) {
 			trst.add(g.seguentPersonatge());
