@@ -7,9 +7,6 @@ import java.util.LinkedHashSet;
 import java.util.Map;
 import java.util.Set;
 import java.util.TreeMap;
-import java.util.stream.Collectors;
-
-import exercici2.Month;
 
 public class Main {
 
