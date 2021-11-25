@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AssertJ/src/main/java"/>
+	<classpathentry kind="src" path="AssertJ/src/test/java"/>
+	<classpathentry kind="src" path="Hamcrest/src/main/java"/>
+	<classpathentry kind="src" path="Hamcrest/src/test/java"/>
+	<classpathentry kind="src" path="JUnit/src/main/java"/>
+	<classpathentry kind="src" path="JUnit/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java 17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
