@@ -21,7 +21,8 @@ public class TestDNI {
 	@Parameters(name = "{index}: dni({0})={1}")
 	public static Collection<Object[]> data(){
 		return Arrays.asList(new Object[][]{
-            {53060664,"D"},{53060665,"X"},{43456218,"H"},{38707338,"V"}
+            {53060664,"D"},{53060665,"X"},{43456218,"H"},{38707338,"V"},{12345678,"Z"},
+            {87654321,"X"},{00000001,"R"},{01234567,"J"},{90123456,"A"},{88888888,"Y"}
 		});
 	}
 	
