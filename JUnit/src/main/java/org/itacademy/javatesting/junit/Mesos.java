@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Mesos {
 	/**
+	 * Exercici 1
 	 * Creu una classe Java que insereixi en una llista ordenada 
 	 * els noms dels mesos de l'any.
 	 */	

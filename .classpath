@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="/Users/jordiborrasvivo/git/ITAcademySprints/01/S104/assertj-core-3.20.2.jar"/>
+	<classpathentry kind="lib" path="/Users/jordiborrasvivo/git/ITAcademySprints/01/S104/hamcrest-2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

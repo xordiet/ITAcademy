@@ -9,6 +9,7 @@ import org.junit.Test;
 
 public class MainClassTest {
 	/**
+	 * Exercici 1.
 	 * Verifiqui amb jUnit que la llista té 12 posicions, 
 	 * que no és nul·la i que en la seva posició 8 conté el nom 'Agost'.
 	 */
@@ -29,11 +30,19 @@ public class MainClassTest {
 	}
 	
 	/*
+	 * Exercici 2.
+	 * Crea una classe jUnit que verifiqui el seu correcte funcionament, 
+	 * parametritzant-la perquè el test rebi un espectre de dades ampli 
+	 * i validi si el càlcul és correcte per a 10 números de DNI predefinits.
 	@Test
 	public void dniTest() {
 		fail("Aquest test es troba a l'arxiu TestDNI.java");
 	}*/
 	
+	/**
+	 * Exercici 3.
+	 * Verifica el seu correcte funcionament amb un test jUnit.
+	 */
 	@Test
 	public void testOutOfBounds() {
 		Integer nums[]=	{0,1,2,3,4,5};

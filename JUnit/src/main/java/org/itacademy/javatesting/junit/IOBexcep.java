@@ -6,6 +6,7 @@ import java.util.List;
 
 public class IOBexcep {
 	/**
+	 * Exercici 3.
 	 * Creu una classe amb un mètode que llanci una ArrayIndexOutOfBoundsException.
 	 */
 	private List<Integer> llista;

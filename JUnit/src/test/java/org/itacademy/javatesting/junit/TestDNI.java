@@ -11,10 +11,11 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 
 /**
-* Creu una classe jUnit que verifiqui el seu correcte funcionament, 
-* parametritzant-la perquè el test rebi un espectre de dades ampli i 
-* validi si el càlcul és correcte per a 10 números de DNI predefinits.
-*/
+ * Exercici 2.
+ * Creu una classe jUnit que verifiqui el seu correcte funcionament, 
+ * parametritzant-la perquè el test rebi un espectre de dades ampli i 
+ * validi si el càlcul és correcte per a 10 números de DNI predefinits.
+ */
 @RunWith(Parameterized.class)
 public class TestDNI {
 

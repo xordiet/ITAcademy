@@ -1,6 +1,7 @@
 package org.itacademy.javatesting.junit;
 
 /**
+ * Exercici 2.
  * Creu una classe Java 'CalculoDni' 
  * que calculi la lletra del DNI en rebre el número com a paràmetre.
  *

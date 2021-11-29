@@ -11,4 +11,9 @@ public class MainClassTest {
 	                                       .contains("Lord") 
 	                                       .endsWith("Rings"); 
 	  }
+	
+	@Test
+	public void exercici1() {
+		
+	}
 }
