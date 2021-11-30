@@ -15,4 +15,8 @@ Creo la branca S103 per a fer-hi la tercera tasca.
 
 ### 23/11/2021
 Entregada la tercera tasca
-Inicio la branca Si04 per a fer-hi la quarta tasca
+Inicio la branca S104 per a fer-hi la quarta tasca
+
+### 30/11/2021
+Entregada la quarta tasca
+Inicio la branca S105 per a fer-hi la cinquena tasca
