@@ -3,11 +3,13 @@ package org.itacademy.javatesting.assertj;
 import org.junit.Test;
 import static org.assertj.core.api.Assertions.*;
 
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 
 public class MainClassTest {
 	/**
@@ -159,5 +161,34 @@ public class MainClassTest {
 			.containsKey(2)
 			.containsEntry(1, "ipsum");
 		
+	}
+	
+	@Test
+	public void exercici6() {
+		/**
+		 * Exercici 6. 
+		 * Provoca una ArrayIndexOutOfBoundsException en una classe qualsevol. 
+		 * Creu una asserció que validi que l'excepció és llançada quan correspon.
+		 */
+		AIOBException er = new AIOBException();
+		try {
+			er.guardaValor(8, 0);
+		} catch (ArrayIndexOutOfBoundsException e) {
+			assertThat(e).isInstanceOf(ArrayIndexOutOfBoundsException.class);
+			assertThat(e).hasMessageStartingWith("Index 8 out of bounds");
+			System.out.println("prova que ha executat el catch");
+		}
+	}
+	
+	@Test
+	public void exercici7() {
+		/**
+		 * Exercici 7. 
+		 * Crea un objecte Optional buit. 
+		 * Escriu l'asserció correcta per a verificar que 
+		 * efectivament està buit.
+		 */
+		Optional<Integer> buit = Optional.empty();
+ 	    assertThat(buit).isEmpty();
 	}
 }
