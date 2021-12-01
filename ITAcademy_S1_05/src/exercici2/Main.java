@@ -3,9 +3,13 @@ package exercici2;
 public class Main {
 	
 	/**
-	 * Exercici 1. 
-	 * Creu una classe Java que llisti el contingut d'un directori 
-	 * rebut per paràmetre ordenat alfabèticament.
+	 * Exercici 2. 
+	 * Afegeixi a la classe del nivell anterior la funcionalitat de 
+	 * llistar un arbre de directoris amb el contingut de tots els 
+	 * seus nivells (recursivamente) de manera que s'imprimeixin en 
+	 * pantalla en ordre alfabètic dins de cada nivell, indicant a més 
+	 * si és un directori (D) o un fitxer (F), i la seva última data 
+	 * de modificació.
 	 */
 
 	public static void main(String[] args) {
