@@ -10,7 +10,6 @@ L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
 exemple: `Java Main.java /Users`
 
 ### Exercici 2
-<<<<<<< HEAD
 L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
 >Java Main.java [+ ruta carpeta]
 
@@ -18,4 +17,7 @@ exemple: `Java Main.java /Users`
 
 ### Exercici 3
 =======
->>>>>>> branch 'S105' of https://github.com/xordiet/ITAcademy.git
+L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
+>Java Main.java [+ ruta carpeta]
+
+exemple: `Java Main.java /Users`
