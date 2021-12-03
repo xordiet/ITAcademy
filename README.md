@@ -53,3 +53,12 @@ Els paràmetres es troben a l'arxiu config.properties
 L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
 >Java Main.java 
 exemple: `Java Main.java`
+
+## Nivell 3
+
+### Exercici 1
+Igual que en el nivell 2, en aquest exercici no hi ha paràmetres a pasar en el moment d'executar. 
+Els paràmetres es troben a l'arxiu config.properties
+L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
+>Java Main.java 
+exemple: `Java Main.java`
