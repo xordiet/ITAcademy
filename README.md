@@ -5,9 +5,9 @@ En aquest arxiu readme s'indica quin és el comandament a escriure en cada exerc
 Per tal que funcioni s'ha de tenir bén configurat el classpath. 
 Si a l'executar-lo dona error seguir les seguents pases:
 1. Assegurar-se que existeix el .class per cada un dels .java
-	Si no és així, executar `Javac xxx.java`
+	* Si no és així, executar `Javac xxx.java`
 2. Abans d'executar el Main corresponent a cada arxiu introduïr -cp ../ abans de Main.java
-	exemple: `Java -cp ../ Main.java`
+	* exemple: `Java -cp ../ Main.java`
 
 ## Nivell1
 
