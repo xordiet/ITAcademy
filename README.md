@@ -9,7 +9,7 @@ Si a l'executar-lo dona error seguir les seguents pases:
 2. Abans d'executar el Main corresponent a cada arxiu introduïr -cp ../ abans de Main.java
 	* exemple: `Java -cp ../ Main.java`
 
-## Nivell1
+## Nivell 1
 
 ### Exercici 1
 L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
@@ -43,4 +43,13 @@ En aquest exercici no hi ha paràmetres, s'han de seguir les instruccions de la 
 L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
 >Java Main.java
 
+exemple: `Java Main.java`
+
+## Nivell 2
+
+### Exercici 1
+En aquest exercici no hi ha paràmetres a pasar en el moment d'executar. 
+Els paràmetres es troben a l'arxiu config.properties
+L'arxiu a executar és Main.java. S'ha d'introduïr el seguent comandament:
+>Java Main.java 
 exemple: `Java Main.java`
