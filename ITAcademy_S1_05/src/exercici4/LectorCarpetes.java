@@ -34,30 +34,20 @@ public class LectorCarpetes {
 			
 			//Aquí executem la lectura de carpetes i escrivim!
 			File carpeta = new File(carpet);		
-			System.out.println("/*******************");
 			bfwriter.write("/*******************\n");
-			System.out.println("* Carpeta a llegir: ");
 			bfwriter.write("* Carpeta a llegir: \n");
-			System.out.println("* "+carpeta);
 			bfwriter.write("* "+carpeta+"\n");
-			System.out.println("********************/");
 			bfwriter.write("********************/\n");
 			File[] llistat = carpeta.listFiles();
 			Arrays.sort(llistat);
 		
 			if (llistat.length == 0) {
-			    System.out.println("El directori és buit. No hi ha cap arxiu a la carpeta especificada");
 			    bfwriter.write("El directori és buit. No hi ha cap arxiu a la carpeta especificada\n");
 			    return;
 			} else {
 			    for (int i=0; i< llistat.length; i++) {
 			    	File arxiu = llistat[i];
 			    	String modificat = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss").format(arxiu.lastModified());
-			    	System.out.println(String.format("(%s) %s %s",
-			   			arxiu.isDirectory() ? "D" : "F",
-			   			arxiu.getName(),
-		    			modificat));
-				    
 				    bfwriter.write(String.format("(%s) %s %s \n",
 				    		arxiu.isDirectory() ? "D" : "F",
 				    		arxiu.getName(),
@@ -67,12 +57,10 @@ public class LectorCarpetes {
 				    }
 			    }
 			}
-			System.out.println();
 			bfwriter.write("\n");
 			
 			//tanca el fluxe intermedi
 			bfwriter.close();
-			System.out.println("Arxiu modificat satisfactòriament..");
 			
 		} catch (IOException e) {
 			e.printStackTrace();

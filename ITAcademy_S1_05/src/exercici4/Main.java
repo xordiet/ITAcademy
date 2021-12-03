@@ -55,9 +55,6 @@ public class Main {
 	
 	static void llegirT(String arxiu) {
 		
-		//System.out.println(arxiu);
-		
-		// crea el fluxe per llegir l'arxiu
 		File file = new File(arxiu);
 		Scanner scanner;
 		try {
