@@ -20,3 +20,7 @@ Inicio la branca S104 per a fer-hi la quarta tasca
 ### 30/11/2021
 Entregada la quarta tasca
 Inicio la branca S105 per a fer-hi la cinquena tasca
+
+### 03/12/2021
+Entregada la cinquena tasca
+Inicio la branca S106 per a fer-hi la sisena tasca
