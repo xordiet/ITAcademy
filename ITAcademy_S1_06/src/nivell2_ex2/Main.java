@@ -4,7 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		ImplementadoraDoble imp = new ImplementadoraDoble();
-		//imp.metode1();
+		ClaseGenerica.metode1(imp);
+		ClaseGenerica.metode2(imp);
 		
 
 	}
