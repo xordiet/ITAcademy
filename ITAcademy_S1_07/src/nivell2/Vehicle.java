@@ -11,7 +11,7 @@ public class Vehicle implements Serializable{
 	}
 	
 	public String claxon() {
-		return null;
+		return "piip piip";
 	}
 	
 	public String getMarca() {

@@ -9,7 +9,7 @@ public class Vehicle {
 	}
 	
 	public String claxon() {
-		return null;
+		return "piip piip";
 	}
 	
 	public String getMarca() {
