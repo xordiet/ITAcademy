@@ -24,3 +24,12 @@ Inicio la branca S105 per a fer-hi la cinquena tasca
 ### 03/12/2021
 Entregada la cinquena tasca
 Inicio la branca S106 per a fer-hi la sisena tasca
+
+### 09/12/2021
+Tinc problemes amb la sisena tasca, la pauso fins parlar amb el mentor
+Inicio la branca S107 per a fer-hi la setena tasca
+
+### 10/12/2021
+Entregada la setena tasca
+(la sisena l'he pausat per un problema a comentar amb el mentor)
+Inicio la branca S108 per a fer-hi la vuitena tasca
