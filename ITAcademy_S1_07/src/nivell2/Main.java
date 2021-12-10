@@ -1,10 +1,17 @@
 package nivell2;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.lang.annotation.Annotation;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 
-@MevaAnotacio(directori = "../")
+import com.google.gson.Gson;
+
+@MevaAnotacio(directori = "src/nivell2/")
 public class Main {
-	
+	static String directori;
 	static ArrayList<Vehicle> array;
 
 	public static void main(String[] args) {
@@ -27,10 +34,44 @@ public class Main {
 		array.add(c1);
 		array.add(c2);
 		
-		for(Vehicle k : array) {
-			System.out.println(k.getMarca()+" "+k.getModel());
+		/**
+		 * Serialització del json
+		 */
+		// obtenim la ruta de l'anotació
+		Annotation annotation = Main.class.getDeclaredAnnotation(MevaAnotacio.class);
+		Method[] methods = annotation.annotationType().getDeclaredMethods();
+		for (Method method : methods) {
+			if (method.getParameterTypes().length == 0 && method.getReturnType() != void.class) {
+				try {
+					Object value = method.invoke(annotation);
+					//System.out.println(value.toString());
+					directori = value.toString();
+				} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {
+					System.out.println(e.getMessage());
+				}
+				
+			}
 		}
 		
+		//creem el json
+		Gson gson = new Gson();
+		String jsonString = gson.toJson(array);
+		//System.out.println(jsonString);
+		
+		//i Guardem a l'arxiu
+		try {
+			String fileName = directori+"vehicles.json";
+			
+			BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+		    writer.write(jsonString);
+		    
+		    writer.close();
+			
+		} catch(Exception e){
+			System.out.println("Error al crear l'arxiu serialitzat");
+		} finally {
+			System.out.println("Acabat!");
+		}
 		
 	}
 
