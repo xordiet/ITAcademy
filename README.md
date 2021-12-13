@@ -33,3 +33,6 @@ Inicio la branca S107 per a fer-hi la setena tasca
 Entregada la setena tasca
 (la sisena l'he pausat per un problema a comentar amb el mentor)
 Inicio la branca S108 per a fer-hi la vuitena tasca
+
+### 13/12/2021
+Entregada la sisena tasca
