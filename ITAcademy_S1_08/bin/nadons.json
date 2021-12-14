@@ -1,0 +1,779 @@
+{
+    "items": [
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "39415",
+            "content": "MARC"
+          },
+          "ono:rank": {
+            "ono:total": "1",
+            "ono:sex": "1"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "8.27",
+              "ono:sex": "16.20"
+            },
+            "ono:v": "479"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=39415",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/39415",
+        "title": "MARC",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "479 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "32790",
+            "content": "JULIA"
+          },
+          "ono:rank": {
+            "ono:total": "2",
+            "ono:sex": "1"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "8.07",
+              "ono:sex": "16.49"
+            },
+            "ono:v": "467"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=32790",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/32790",
+        "title": "JULIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "467 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "28116",
+            "content": "JAN"
+          },
+          "ono:rank": {
+            "ono:total": "3",
+            "ono:sex": "2"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.79",
+              "ono:sex": "15.26"
+            },
+            "ono:v": "451"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=28116",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/28116",
+        "title": "JAN",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "451 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "18575",
+            "content": "EMMA"
+          },
+          "ono:rank": {
+            "ono:total": "4",
+            "ono:sex": "2"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.65",
+              "ono:sex": "15.64"
+            },
+            "ono:v": "443"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=18575",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/18575",
+        "title": "EMMA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "443 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "41563",
+            "content": "MARTINA"
+          },
+          "ono:rank": {
+            "ono:total": "5",
+            "ono:sex": "3"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.62",
+              "ono:sex": "15.57"
+            },
+            "ono:v": "441"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=41563",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/41563",
+        "title": "MARTINA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "441 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "50556",
+            "content": "POL"
+          },
+          "ono:rank": {
+            "ono:total": "6",
+            "ono:sex": "3"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.48",
+              "ono:sex": "14.65"
+            },
+            "ono:v": "433"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=50556",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/50556",
+        "title": "POL",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "433 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "47194",
+            "content": "NIL"
+          },
+          "ono:rank": {
+            "ono:total": "7",
+            "ono:sex": "4"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.46",
+              "ono:sex": "14.61"
+            },
+            "ono:v": "432"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=47194",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/47194",
+        "title": "NIL",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "432 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "36074",
+            "content": "LEO"
+          },
+          "ono:rank": {
+            "ono:total": "8",
+            "ono:sex": "5"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "7.29",
+              "ono:sex": "14.28"
+            },
+            "ono:v": "422"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=36074",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/36074",
+        "title": "LEO",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "422 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "3719",
+            "content": "ALEX"
+          },
+          "ono:rank": {
+            "ono:total": "9",
+            "ono:sex": "6"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.82",
+              "ono:sex": "13.36"
+            },
+            "ono:v": "395"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=3719",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/3719",
+        "title": "ALEX",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "395 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "41479",
+            "content": "MARTI"
+          },
+          "ono:rank": {
+            "ono:total": "10",
+            "ono:sex": "7"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.69",
+              "ono:sex": "13.09"
+            },
+            "ono:v": "387"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=41479",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/41479",
+        "title": "MARTI",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "387 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "43040",
+            "content": "MIA"
+          },
+          "ono:rank": {
+            "ono:total": "11",
+            "ono:sex": "4"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.58",
+              "ono:sex": "13.45"
+            },
+            "ono:v": "381"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=43040",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/43040",
+        "title": "MIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "381 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "37834",
+            "content": "LUCIA"
+          },
+          "ono:rank": {
+            "ono:total": "12",
+            "ono:sex": "5"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.56",
+              "ono:sex": "13.41"
+            },
+            "ono:v": "380"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=37834",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/37834",
+        "title": "LUCIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "380 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "48610",
+            "content": "ONA"
+          },
+          "ono:rank": {
+            "ono:total": "13",
+            "ono:sex": "6"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.27",
+              "ono:sex": "12.81"
+            },
+            "ono:v": "363"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=48610",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/48610",
+        "title": "ONA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "363 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "10035",
+            "content": "BIEL"
+          },
+          "ono:rank": {
+            "ono:total": "14",
+            "ono:sex": "8"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.20",
+              "ono:sex": "12.14"
+            },
+            "ono:v": "359"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=10035",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/10035",
+        "title": "BIEL",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "359 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "49701",
+            "content": "PAU"
+          },
+          "ono:rank": {
+            "ono:total": "15",
+            "ono:sex": "9"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.18",
+              "ono:sex": "12.11"
+            },
+            "ono:v": "358"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=49701",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/49701",
+        "title": "PAU",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "358 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "56680",
+            "content": "SOFIA"
+          },
+          "ono:rank": {
+            "ono:total": "16",
+            "ono:sex": "7"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.17",
+              "ono:sex": "12.60"
+            },
+            "ono:v": "357"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=56680",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/56680",
+        "title": "SOFIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "357 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "35165",
+            "content": "LAIA"
+          },
+          "ono:rank": {
+            "ono:total": "17",
+            "ono:sex": "8"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "6.03",
+              "ono:sex": "12.32"
+            },
+            "ono:v": "349"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=35165",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/35165",
+        "title": "LAIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "349 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "37592",
+            "content": "LUCAS"
+          },
+          "ono:rank": {
+            "ono:total": "18",
+            "ono:sex": "10"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.82",
+              "ono:sex": "11.40"
+            },
+            "ono:v": "337"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=37592",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/37592",
+        "title": "LUCAS",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "337 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "737",
+            "content": "ABRIL"
+          },
+          "ono:rank": {
+            "ono:total": "19",
+            "ono:sex": "9"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.65",
+              "ono:sex": "11.54"
+            },
+            "ono:v": "327"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=737",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/737",
+        "title": "ABRIL",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "327 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "25144",
+            "content": "HUGO"
+          },
+          "ono:rank": {
+            "ono:total": "20",
+            "ono:sex": "11"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.49",
+              "ono:sex": "10.76"
+            },
+            "ono:v": "318"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=25144",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/25144",
+        "title": "HUGO",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "318 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "40683",
+            "content": "MARIA"
+          },
+          "ono:rank": {
+            "ono:total": "20",
+            "ono:sex": "10"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.49",
+              "ono:sex": "11.23"
+            },
+            "ono:v": "318"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=40683",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/40683",
+        "title": "MARIA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "318 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "47406",
+            "content": "NOA"
+          },
+          "ono:rank": {
+            "ono:total": "22",
+            "ono:sex": "11"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.37",
+              "ono:sex": "10.98"
+            },
+            "ono:v": "311"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=47406",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/47406",
+        "title": "NOA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "311 dones"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "36406",
+            "content": "LIAM"
+          },
+          "ono:rank": {
+            "ono:total": "23",
+            "ono:sex": "12"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.32",
+              "ono:sex": "10.42"
+            },
+            "ono:v": "308"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=36406",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/36406",
+        "title": "LIAM",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "308 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "m",
+            "id": "10885",
+            "content": "BRUNO"
+          },
+          "ono:rank": {
+            "ono:total": "24",
+            "ono:sex": "13"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.13",
+              "ono:sex": "10.05"
+            },
+            "ono:v": "297"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=10885",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/10885",
+        "title": "BRUNO",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "297 homes"
+        }
+      },
+      {
+        "ono:f": {
+          "ono:c": {
+            "sex": "f",
+            "id": "1972",
+            "content": "AINA"
+          },
+          "ono:rank": {
+            "ono:total": "25",
+            "ono:sex": "12"
+          },
+          "ono:pos1": {
+            "ono:w": {
+              "ono:total": "5.11",
+              "ono:sex": "10.45"
+            },
+            "ono:v": "296"
+          }
+        },
+        "link": {
+          "href": "https://www.idescat.cat/nadons/?geo=3&id=1972",
+          "type": "text/html"
+        },
+        "id": "tag:idescat.cat,2010:nadons/1972",
+        "title": "AINA",
+        "updated": "2021-07-19T10:00:00+00:00",
+        "content": {
+          "xml:lang": "ca",
+          "content": "296 dones"
+        }
+      }
+    ]
+}
