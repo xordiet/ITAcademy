@@ -1,6 +1,9 @@
 # ITAcademy
 Arxius i exercicis del curs Java de l'IT Acdemy
 
+## Sprint 1
+Aquest Sprint es troba en aquest repositori
+
 ### 15/11/2021
 Pujo els exercicis de la primera tasca
 
@@ -36,3 +39,9 @@ Inicio la branca S108 per a fer-hi la vuitena tasca
 
 ### 13/12/2021
 Entregada la sisena tasca
+
+## Sprint 2
+Es pot trobar al repositori https://github.com/xordiet/ITAcademy-bbdd
+
+## Sprint 3
+Es pot trobar al repositori https://github.com/xordiet/ITAcademy-Sprint3
