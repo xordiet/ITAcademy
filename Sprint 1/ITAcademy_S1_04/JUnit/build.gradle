@@ -1,0 +1,9 @@
+apply plugin: 'application'
+
+dependencies {
+    testCompile group: 'org.assertj', name: 'assertj-core', version: '3.19.0'
+    testCompile group: 'junit', name: 'junit', version: '4.13.1'
+    testCompile group: 'org.hamcrest', name: 'hamcrest-all', version: '1.3'
+}
+
+mainClassName = 'org.itacademy.javatesting.junit.MainClass'
